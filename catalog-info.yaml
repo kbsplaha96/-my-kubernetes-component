@@ -4,7 +4,7 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: my-kubernetes-component
     argocd/app-name: value
-    github.com/project-slug: 'backstage/backstage'
+    github.com/project-slug: 'argoproj/argo-cd'
   name: my-kubernetes-component
 spec:
   lifecycle: production
