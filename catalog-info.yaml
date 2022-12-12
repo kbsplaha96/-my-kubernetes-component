@@ -3,7 +3,7 @@ kind: Component
 metadata:
   annotations:
     backstage.io/techdocs-ref: value
-    github.com/project-slug: 'backstage/backstage'
+    github.com/project-slug: 'kbsplaha96/-my-kubernetes-component'
     sentry.io/project-slug: 'frontend'
     datadoghq.com/site: datadoghq.com
     datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/d3b757963-f8eb31590e28374b21a94437cd5a2533
