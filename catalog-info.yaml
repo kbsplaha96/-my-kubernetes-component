@@ -8,7 +8,7 @@ metadata:
     datadoghq.com/site: datadoghq.com
     datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/d3b757963-f8eb31590e28374b21a94437cd5a2533
     datadoghq.com/graph-token: e4d914ce32d89e57f0d67bdaef75044c170e1639c3eaa5dfc9bb0bfb05ab0c73
-    argocd/app-name: datadog
+    argocd/app-name: argo-cd
   name: my-kubernetes-component
 spec:
   lifecycle: production
